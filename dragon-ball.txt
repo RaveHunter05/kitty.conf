@@ -1,25 +1,23 @@
-map ctrl+shift+t new_tab_with_cwd
+# DRAGON BALL STYLE for kitty.conf
 
-# DRAGON BALL Z STYLE for kitty.conf
+# Fondo oscuro, casi negro (espacio para resaltar energía)
+background            #0b0b1e
 
-# Fondo oscuro (espacio para resaltar energía y explosiones)
-background            #0a0a1a
+# Texto principal naranja brillante (Ki)
+foreground            #ffcc00
 
-# Texto principal amarillo brillante (Ki de Goku)
-foreground            #ffdd00
-
-# Cursor naranja/neón (energía)
+# Cursor naranja/neón
 cursor                #ff6600
 
-# Selección roja con texto amarillo
-selection_foreground  #ffdd00
+# Selección en rojo con texto amarillo
+selection_foreground  #ffcc00
 selection_background  #ff3300
 
-# Paleta Dragon Ball Z
-color0  #0a0a1a
+# Paleta Dragon Ball
+color0  #0b0b1e
 color1  #ff3300
-color2  #33ff33
-color3  #ffdd00
+color2  #66ff33
+color3  #ffcc00
 color4  #0066ff
 color5  #cc33ff
 color6  #33ffff
